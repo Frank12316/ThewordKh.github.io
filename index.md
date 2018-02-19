@@ -13,8 +13,10 @@ layout: default
  Desenvolvo jogos digitais. Minhas principais experiências são com programação, level design e game design.  
   
 # **Produções**  
+1. Explore
 1. Carta: uma jornada frágil  
 ![](CartaGame.png)  
+
 ## **Games**  
 1. [Explore](https://thewordkh.github.io/Explore/)    
 2. [Carta: uma jornada frágil](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)  
